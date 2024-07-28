@@ -1,0 +1,58 @@
+{
+  "src": "landscape/1920x1280.webp",
+  "key": "landscape",
+  "width": 1920,
+  "height": 1280,
+  "srcSet": [
+    {
+      "src": "landscape/1920x1280.webp",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "src": "landscape/1280x854.webp",
+      "width": 1280,
+      "height": 854
+    },
+    {
+      "src": "landscape/854x570.webp",
+      "width": 854,
+      "height": 570
+    },
+    {
+      "src": "landscape/570x380.webp",
+      "width": 570,
+      "height": 380
+    },
+    {
+      "src": "landscape/380x254.webp",
+      "width": 380,
+      "height": 254
+    },
+    {
+      "src": "landscape/254x170.webp",
+      "width": 254,
+      "height": 170
+    },
+    {
+      "src": "landscape/170x114.webp",
+      "width": 170,
+      "height": 114
+    },
+    {
+      "src": "landscape/114x76.webp",
+      "width": 114,
+      "height": 76
+    },
+    {
+      "src": "landscape/76x51.webp",
+      "width": 76,
+      "height": 51
+    },
+    {
+      "src": "landscape/51x34.webp",
+      "width": 51,
+      "height": 34
+    }
+  ]
+}

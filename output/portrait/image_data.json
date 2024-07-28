@@ -1,0 +1,58 @@
+{
+  "src": "portrait/1920x2560.webp",
+  "key": "portrait",
+  "width": 1920,
+  "height": 2560,
+  "srcSet": [
+    {
+      "src": "portrait/1920x2560.webp",
+      "width": 1920,
+      "height": 2560
+    },
+    {
+      "src": "portrait/1280x1707.webp",
+      "width": 1280,
+      "height": 1707
+    },
+    {
+      "src": "portrait/854x1139.webp",
+      "width": 854,
+      "height": 1139
+    },
+    {
+      "src": "portrait/570x760.webp",
+      "width": 570,
+      "height": 760
+    },
+    {
+      "src": "portrait/380x507.webp",
+      "width": 380,
+      "height": 507
+    },
+    {
+      "src": "portrait/254x339.webp",
+      "width": 254,
+      "height": 339
+    },
+    {
+      "src": "portrait/170x227.webp",
+      "width": 170,
+      "height": 227
+    },
+    {
+      "src": "portrait/114x152.webp",
+      "width": 114,
+      "height": 152
+    },
+    {
+      "src": "portrait/76x102.webp",
+      "width": 76,
+      "height": 102
+    },
+    {
+      "src": "portrait/51x68.webp",
+      "width": 51,
+      "height": 68
+    }
+  ]
+}
